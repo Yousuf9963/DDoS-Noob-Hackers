@@ -1,4 +1,4 @@
-print("[+] Tool Namee:DDoS-Noob-Hackers")
+print("[+] Tool Name:DDoS-Noob-Hackers")
 
 print("[+] Author:Yousuf Shafi'i Muhammad. Junior Programmer.")
 
