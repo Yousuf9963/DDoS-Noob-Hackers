@@ -23,7 +23,7 @@ print("")
 import socket
 import threading
 
-target = input("Enter Target IP")
+target = input("Enter Target IP:")
 port = input("Enter Target Default port:80 Port ")
 
 def attack():
