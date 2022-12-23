@@ -24,7 +24,7 @@ import socket
 import threading
 
 target = input("Enter Target IP:")
-port = input("Enter Target Default port:80 Port ")
+port = input("Enter Target Default port:80 Port: ")
 
 def attack():
     while True:
